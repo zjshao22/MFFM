@@ -19,7 +19,7 @@
 └── train.py  
 
 ## step
-1. run c&p.ipynb get ddi.csv smiles.csv catp_feature.pt
+1. run c&p.ipynb get ddi.csv smiles.csv ccatp_feature.pt
 2. run create_data.py get ddi_drug1.pt ddi_drug2.pt
 3. run train.py
 
