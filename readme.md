@@ -24,5 +24,5 @@
 3. run train.py
 
 ## references
-https://github.com/YifanDengWHU/DDIMDL
-https://github.com/Sinwang404/DeepDDs/tree/master# MFFM
+https://github.com/YifanDengWHU/DDIMDL  
+https://github.com/Sinwang404/DeepDDs/tree/master     
